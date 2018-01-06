@@ -14,9 +14,9 @@ or
 docker pull codebykumbi/dw-create-react-app:latest
 ```
 
-*See `https://hub.docker.com/r/codebykumbi/create-react-app/` for public docker image on DockerHub
+*See [link](https://hub.docker.com/r/codebykumbi/create-react-app/) for public docker image on DockerHub
 
-*See `https://github.com/codebykumbi/workspace` for a convenient tool for starting docker workspaces.
+*See [link](https://github.com/codebykumbi/workspace) for a convenient tool for starting docker workspaces.
 
 ## Usage
 
