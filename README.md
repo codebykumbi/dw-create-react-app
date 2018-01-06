@@ -29,7 +29,7 @@ docker run --rm -it -v "$PWD/myapp":/myapp -w /myapp dw-create-react-app:latest 
 Running the `tree` in the resulting terminal (assuming the tree package is installed)
 
 ```bash
-root@48871fabf221:/usr/src/myapp# tree
+root@48871fabf221:/myapp# tree
 .
 |-- README.md
 |-- node_modules -> /tmp/src/myapp/node_modules
